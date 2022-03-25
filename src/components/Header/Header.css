@@ -1,0 +1,15 @@
+.header{
+    text-align: center;
+}
+.header h1{
+    font-size: 40px;
+    color: brown;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+.header h2{
+    color: gray;
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 5px;
+}
