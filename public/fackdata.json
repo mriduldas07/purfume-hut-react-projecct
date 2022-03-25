@@ -1,5 +1,56 @@
 [
     {
-        "id":"1"
+        "id":"1",
+        "name":"Kenneth Cole Black",
+        "img":"https://m.media-amazon.com/images/I/61hTrbMCmFL._AC_UL320_.jpg",
+        "price":"$ 19.00"
+    },
+    {
+        "id":"2",
+        "name":"BOD Man Fragrance",
+        "img":"https://m.media-amazon.com/images/I/61-jIIagamL._AC_UL320_.jpg",
+        "price":"$ 15.00"
+    },
+    {
+        "id":"3",
+        "name":"Drakkar Noir ",
+        "img":"https://m.media-amazon.com/images/I/71m-guK2C0L._AC_UL320_.jpg",
+        "price":"$ 23.00"
+    },
+    {
+        "id":"4",
+        "name":"Cremo Bourbon ",
+        "img":"https://m.media-amazon.com/images/I/51P9KIOHIlL._AC_UL320_.jpg",
+        "price":"$ 25.00"
+    },
+    {
+        "id":"5",
+        "name":"AXE Body Spray",
+        "img":"https://m.media-amazon.com/images/I/81ciFYVrsUL._AC_UL320_.jpg",
+        "price":"$ 21.00"
+    },
+    {
+        "id":"6",
+        "name":"Old Spice",
+        "img":"https://m.media-amazon.com/images/I/71X-g-lWi9S._AC_UL320_.jpg",
+        "price":"$ 28.00"
+    },
+    {
+        "id":"7",
+        "name":"AXE Wild Bamboo",
+        "img":"https://m.media-amazon.com/images/I/71BnqPSTcPS._AC_UL320_.jpg",
+        "price":"$ 24.00"
+    },
+    {
+        "id":"8",
+        "name":"AXE Apollo Dual",
+        "img":"https://m.media-amazon.com/images/I/81ZWNrIM0uL._AC_UL320_.jpg",
+        "price":"$ 31.00"
+    },
+    {
+        "id":"9",
+        "name":"Deodorant for Men ",
+        "img":"https://m.media-amazon.com/images/I/619m-QmIQQL._AC_UL320_.jpg",
+        "price":"$ 29.00"
     }
 ]
