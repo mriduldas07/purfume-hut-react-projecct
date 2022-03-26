@@ -1,11 +1,11 @@
-.cart{
-    text-align: center;
-    width: 80%;
-    height: 400px;
-    background-color: aliceblue;
-    margin-left: 30px;
-    border-radius: 10px;
-    margin-top: 30px;
-    position: sticky;
-    top: 40px;
+.display-cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.display-cart img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    margin-right: 10px;
 }

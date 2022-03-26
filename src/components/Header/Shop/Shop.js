@@ -28,8 +28,14 @@ const Shop = () => {
                 ></Product>)
             }
             </div>
-            <div>
-                <Cart cart={cart}></Cart>
+            <div  className='cart'>
+            <h1>Selected Items </h1>
+                {
+                    cart.map(items => <Cart 
+                        cart={items}
+                        key={items.id}
+                        ></Cart>)
+                }
             </div>
         </div>
     );

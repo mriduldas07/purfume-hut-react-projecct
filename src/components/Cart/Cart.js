@@ -1,12 +1,16 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './Cart.css'
 
 const Cart = ({cart}) => {
-    console.log(cart);
+    const {name,img} = cart;
     return (
-        <div className='cart'>
-            <h1>Selected Items </h1>
-            
+        <div className='display-cart'>
+            <div>
+                <img src={img} alt="" />
+            </div>
+            <div className="cart-name">
+                <h3>{name}</h3>
+            </div>
         </div>
     );
 };
