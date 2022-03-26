@@ -1,7 +1,7 @@
 .product{
     background-color: #F4F6F7;
     padding-top: 30px;
-    height: 500px;
+    height: 480px;
     border-radius: 10px;
     box-shadow: 5px 5px 15px gray;
     position: relative;
@@ -25,4 +25,7 @@
 .product button:hover{
     background-image: linear-gradient(crimson,brown);
     color: white;
+}
+.btn-text{
+    margin-right: 10px;
 }

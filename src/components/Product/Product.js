@@ -13,7 +13,7 @@ const Product = ({product}) => {
                 <h4>Price: {price}</h4>
             </div>
             <button>
-                <h3>Add To Cart</h3>
+                <h3 className='btn-text'>Add To Cart</h3>
                 <FontAwesomeIcon icon={faShoppingCart}></FontAwesomeIcon>
             </button>
         </div>
