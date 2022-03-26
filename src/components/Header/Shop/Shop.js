@@ -14,7 +14,9 @@ const Shop = () => {
     },[]);
     const handleAddToCart = (product) =>{
         const newCart = [...cart, product];
-        setCart(newCart)
+        if (newCart.length <= 4) {
+            setCart(newCart)
+        }
     }
 
     return (
