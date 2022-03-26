@@ -27,5 +27,6 @@
     }
     .product-container{
         grid-template-columns: repeat(1,1fr);
+        margin-right: 5px;
     }
 }
